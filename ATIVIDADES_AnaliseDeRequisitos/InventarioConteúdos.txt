@@ -1,0 +1,7 @@
+_Imagem dos ônibus e das frotas.
+_Imagem das Maneiras de Pagamento.
+_Dados dos ônibus, Pagamento e Usuário. 
+_Letreiro de Carrossel para ônibus Disponíveis.
+_Imagens de Botões referentes ao acontecimento do clique.
+_Imagem dos assentos para escolher; com numero da cadeira.
+_Links para Redes Sociais com as Imagens.

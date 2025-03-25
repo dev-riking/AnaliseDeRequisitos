@@ -1,0 +1,6 @@
+_Tela de LOGIN: Nome do Usuário, Senha, Email. -> Usuário.
+_Tela de PREENCHIMENTO de INFORMAÇÕES da PESQUISA do Ônibus(Local de Partida e Destino + Hora e Data) -> Usuário / Filtrar Ônibus disponíveis e mostrar ao Usuário para escolher o ônibus caso disponibilidade seja mais de um [Puxar do Banco de Dados da Empresa de Ônibus].
+_Tela de Escolha do Assento: Assentos Disponíveis no Ônibus e seleção da Poltrona -> Usuário.
+_Tela de Pagamento: Escolher forma de Pagamento(Pix, Cartão de Débito ou Crédito)-Efetuar Pagamento e Confirmar Pagamento -> Usuário.
+_Tela da Emissão de Passagem: carregar a entrega da passagem digital de acordo com o valor entregue, Emitir automáticamente -> Usuário/Sistema.
+_Tela de Acompanhamento de ROTA: Puxar API do MAPS para acompanhar a Viagem do Usuário, Ligando ele com Ônibus e acompanhar(Quanto tempo resta para termino da viagem e distância).
